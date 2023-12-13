@@ -1,0 +1,107 @@
+.experiencia{
+    width: auto;
+    padding: 35px;
+
+}
+.experiencia h3{
+    font-family: var(--Raleway);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: var(--color-text);
+    padding-bottom: 16px;
+   
+
+
+}
+.experiencia__box{
+    width: 100%;
+    height: auto;
+ 
+    padding-bottom: 70px;
+   
+
+}
+.experiencia__box img{
+    width: 100%;
+
+}
+.experiencia__box h2{
+font-family: var(--Raleway);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: var(--color-text);
+padding-top: 16px;
+
+
+}
+.experiencia__box p{
+    font-family: var(--Raleway);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: var(--color-text);
+    padding-top: 6px;
+    padding-bottom: 16px;
+
+
+}
+    
+.experiencia__box__botones{
+    width: 100%;
+
+}
+.experiencia__box__botones__repo{
+   width: auto;
+
+
+}
+.experiencia__box__botones__repo a{
+    width: auto;
+
+}
+.experiencia__box__botones__repo button{
+    width: 108px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border: 1px solid #2A7AE4;
+    padding: 12px,16px;
+    text-align: center;
+    margin-right: 16px;
+
+
+    font-family: var(--color-text);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #2A7AE4;
+   
+
+}
+
+.experiencia__box__botones__demo button{
+    width: Hug (96px);
+    height: Hug (40px);
+    padding: 12px 16px;
+    background-color:#2A7AE4;
+   
+    border: none;
+
+    font-family: var(--Raleway);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+  
+
+}

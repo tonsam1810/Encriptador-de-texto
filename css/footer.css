@@ -1,0 +1,27 @@
+.footer{
+    width: auto;
+    height: 70px;
+    padding: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  
+
+}
+.footer__div{
+    width: auto;
+    height: 38px;
+   
+}
+
+.footer__div p{
+    font-family: var(--Raleway);
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+color: var(--color-text);
+
+
+}

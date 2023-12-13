@@ -1,0 +1,281 @@
+@media  (max-width:719px ){
+.formacion{
+    background-color: var(--fondo-azul);
+    width: 100%;
+    height: auto;
+    padding-top: 32px;
+  
+
+}
+.formacion h3{
+    font-family: var(--Raleway);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: var(--color-text);
+
+}
+              
+.formacion__academic__container{
+    padding: 35px;
+ 
+}
+.formacion__container__box{
+    padding-top: 16px;
+
+}
+
+
+.formacion__container__box__item__img{
+    width: auto;
+    height:118px;
+   
+    gap: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content:center
+
+
+
+}
+.formacion__container__box__item__img img{
+    width: 84px;
+    height: 58px;
+
+    
+
+}
+.formacion__container__box__item__h2{
+    font-family: var(--Raleway);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: var(--color-text);
+    padding-top: 16px;
+
+    
+}
+   
+.formacion__container__box__item__p{
+    font-family: var(--Raleway);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: var(--color-text);
+    padding-top: 6px;
+
+    
+}
+
+}
+
+@media  (min-width: 720px) and (max-width: 1279px){
+    .formacion{
+        background-color: var(--fondo-azul);
+        width: 100%;
+        height: auto;
+        padding-top: 32px;
+      
+    
+    }
+    .formacion h3{
+        font-family: var(--Raleway);
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: var(--color-text);
+    
+    }
+                  
+    .formacion__academic__container{
+        padding: 35px;
+        display: flex;
+     
+    }
+    .formacion__container__box{
+        display: flex;
+        padding-top: 16px;
+        flex:1;
+        align-items: center;
+        
+       
+    
+    }
+    .formacion__container__box__list{
+        display: flex;
+        flex-direction: column;
+        flex:1;
+        
+
+}
+    
+    
+    
+    .formacion__container__box__item__img{
+        width: auto;
+        height:118px;
+       
+        gap: 10px;
+        background-color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content:center
+    
+    
+    
+    }
+    .formacion__container__box__item__img img{
+        width: 84px;
+        height: 58px;
+    
+        
+    
+    }
+    .formacion__container__box__item__h2{
+        font-family: var(--Raleway);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: var(--color-text);
+        padding-top: 16px;
+    
+        
+    }
+       
+    .formacion__container__box__item__p{
+        font-family: var(--Raleway);
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: var(--color-text);
+        padding-top: 6px;
+    
+        
+    }
+    
+    }
+
+
+
+
+    
+@media  (min-width: 1280px){
+    .formacion{
+        background-color: var(--fondo-azul);
+        width: 100%;
+        height: auto;
+        padding-top: 32px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 32px;
+      
+    
+    }
+    .formacion h3{
+        font-family: var(--Raleway);
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: var(--color-text);
+    
+    }
+    .formacion__academic{
+        width: 1136px;
+    }
+                  
+    .formacion__academic__container{
+        
+        display: flex;
+        padding-top: 32px;
+       
+        justify-content: space-between;
+     
+    }
+    .formacion__container__box{
+        display: flex;
+        
+       
+        align-items: center;
+        
+        width: 368px;
+        height: 347px;
+        
+       
+    
+    }
+    .formacion__container__box__list{
+        display: flex;
+        flex-direction: column;
+        width: 368px;
+        height:347px;
+       
+       
+        
+
+}
+    
+    
+    
+    .formacion__container__box__item__img{
+        width: 368px;
+        height:286px;
+       
+        
+        background-color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content:center
+    
+    
+    
+    }
+    .formacion__container__box__item__img img{
+        width: 192px;
+        height: 130px;
+    
+        
+    
+    }
+    .formacion__container__box__item__h2{
+        font-family: var(--Raleway);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: var(--color-text);
+        padding-top: 16px;
+    
+        
+    }
+       
+    .formacion__container__box__item__p{
+        font-family: var(--Raleway);
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: var(--color-text);
+        padding-top: 6px;
+    
+        
+    }
+    
+    }
